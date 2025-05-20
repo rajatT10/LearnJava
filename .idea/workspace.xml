@@ -5,52 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7be963be-90a0-4f7f-a2ea-5fdfa2ed3968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/.idea/Design Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/classes/production/Design Patterns/.idea/Design Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/main/Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/main/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/practice/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/practice/EvenOddThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/practice/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/practice/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/practice/SumOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Design Patterns/src/practice/ZigZagTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryPattern/FactoryPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algorithms/SortingAlgorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/linkedlist/LinkedListMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/linkedlist/SwappingKNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/stack/DynamicSizeStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/stack/FindConsecutivePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/stack/FixedSizeStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/tree/BTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exceptions/DataNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exceptions/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exceptions/SomeError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/generics/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacollection/Queue/LearnQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacollection/list/LinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacollection/records/LearnRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacollection/records/LearnRecords2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacollection/set/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lambda/LearnLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/RemoveDuplicateInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/EnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/SequencedCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/UnnamedVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/recursion/backtracing/BinaryStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/threads/LeadMultiThreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/threads/MultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/threads/RaceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment/shoopingcart-service/shoppingcart-service/src/main/java/com/shoppingcart/controller/ShoppingCartRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment/shoopingcart-service/shoppingcart-service/src/main/java/com/shoppingcart/dao/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../docker-microservices-master/Interview/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../docker-microservices-master/Interview/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../docker-microservices-master/Interview/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../docker-microservices-master/Interview/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/algorithms/SortingAlgorithms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/linkedlist/LinkedListMod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/linkedlist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/linkedlist/SwappingKNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/stack/DynamicSizeStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/stack/FindConsecutivePair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/stack/FixedSizeStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/tree/BTNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/exceptions/DataNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/exceptions/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/exceptions/SomeError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/generics/GenericDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/generics/Generics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/Queue/LearnQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/AnimalImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/AnimalInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/GenericClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/models/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/models/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/models/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/ArrayListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/LinkedListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/comparators/RatingComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/comparators/TitleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/models/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/records/ExecuteRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/records/LearnRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/records/LearnRecords2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/set/SetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/lambda/LearnLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/leetcode/RemoveDuplicateInSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EmployeeClass$Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EmployeeClass$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EmployeeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EnumExample$Social.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EnumExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/SequencedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/UnnamedVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/recursion/backtracing/BinaryStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/LeadMultiThreading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/MultiThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/ProducerConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/RaceCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SequencedCollection.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/HashSet.java" root0="SKIP_INSPECTION" />
@@ -152,7 +153,7 @@
     "Gradle.LearnJava [:UnnamedVariables.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Rajat Tiwari/IdeaProjects/LearnJava",
     "onboarding.tips.debug.path": "C:/Users/Rajat Tiwari/IdeaProjects/JavaCollections/src/main/java/org/example/Main.java",
