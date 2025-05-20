@@ -1,0 +1,35 @@
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore logs
+*.log
+
+# Ignore temporary files created by editors or OS
+*.swp               # Vim swap files
+*~                  # Backup files
+.DS_Store           # macOS Finder metadata
+Thumbs.db           # Windows image cache
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# Ignore coverage reports
+coverage/
+jacoco.exec
+
+# Ignore environment files
+.env

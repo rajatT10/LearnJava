@@ -4,54 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be963be-90a0-4f7f-a2ea-5fdfa2ed3968" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/algorithms/SortingAlgorithms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/linkedlist/LinkedListMod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/linkedlist/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/linkedlist/SwappingKNodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/stack/DynamicSizeStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/stack/FindConsecutivePair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/stack/FixedSizeStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/tree/BTNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ds/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/exceptions/DataNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/exceptions/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/exceptions/SomeError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/generics/GenericDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/generics/Generics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/Queue/LearnQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/AnimalImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/AnimalInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/GenericClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/models/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/models/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/generics/models/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/ArrayListExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/LinkedListExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/comparators/RatingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/comparators/TitleComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/list/models/Song.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/records/ExecuteRecords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/records/LearnRecords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/records/LearnRecords2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/javacollection/set/SetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/lambda/LearnLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/leetcode/RemoveDuplicateInSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EmployeeClass$Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EmployeeClass$Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EmployeeClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EnumExample$Social.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/EnumExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/SequencedCollection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/practice/UnnamedVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/recursion/backtracing/BinaryStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/LeadMultiThreading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/MultiThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/ProducerConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/threads/RaceCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SequencedCollection.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+    <list default="true" id="7be963be-90a0-4f7f-a2ea-5fdfa2ed3968" name="Changes" comment="Delete Build folder">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version/java8/ImplementationClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version/java8/Java8Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearnJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +56,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -104,6 +64,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rajatT10"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rajatT10/LearnJava.git",
+    "accountId": "f46f3249-d94b-49dd-ae7d-8ef132d404a1"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/HashSet.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
@@ -123,6 +95,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ImplementationClass.executor": "Run",
     "Gradle.Build JavaCollections.executor": "Run",
     "Gradle.Download Sources.executor": "Run",
     "Gradle.JavaCollections [:AnimalIdentifier.main()].executor": "Run",
@@ -153,17 +126,18 @@
     "Gradle.LearnJava [:UnnamedVariables.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Rajat Tiwari/IdeaProjects/LearnJava",
     "onboarding.tips.debug.path": "C:/Users/Rajat Tiwari/IdeaProjects/JavaCollections/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SequencedCollection">
+  <component name="RunManager" selected="Application.ImplementationClass">
     <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.practice.EnumExample" />
       <module name="LearnJava.main" />
@@ -177,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.generics.Generics" />
+    <configuration name="ImplementationClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="version.java8.ImplementationClass" />
       <module name="LearnJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.generics.*" />
+          <option name="PATTERN" value="version.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,8 +226,8 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.ImplementationClass" />
       <item itemvalue="Application.EnumExample" />
-      <item itemvalue="Application.Generics" />
       <item itemvalue="Application.SequencedCollection" />
       <item itemvalue="Application.StructuredConcurrency" />
       <item itemvalue="Application.UnnamedVariables" />
@@ -261,11 +235,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImplementationClass" />
         <item itemvalue="Application.SequencedCollection" />
         <item itemvalue="Application.StructuredConcurrency" />
         <item itemvalue="Application.UnnamedVariables" />
         <item itemvalue="Application.EnumExample" />
-        <item itemvalue="Application.Generics" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +252,15 @@
       <option name="presentableId" value="Default" />
       <updated>1717322061851</updated>
     </task>
+    <task id="LOCAL-00001" summary="Delete Build folder">
+      <option name="closed" value="true" />
+      <created>1747766602578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747766602578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -295,6 +278,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Delete Build folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete Build folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
